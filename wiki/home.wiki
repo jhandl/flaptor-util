@@ -1,0 +1,5 @@
+#summary Flaptor Util homepage
+
+= Introduction =
+
+[http://opensource.flaptor.com/flaptor-util/javadoc API documentation]
