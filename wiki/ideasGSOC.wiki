@@ -18,3 +18,7 @@ ideas:
      * send commands
      * remote setting of properties
   * enhance "plug n playability"
+
+== minor projects ==
+  * [http://code.google.com/p/wiz4j wiz4j]
+  * [http://code.google.com/p/hist4j hist4j]
