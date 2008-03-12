@@ -1,0 +1,20 @@
+#summary Flaptor's idea page for GSOC 2008
+
+Here is a summary of our open source projects and some ideas. We are also open to suggestions for new features that the student might be interested in implementing.
+
+== [http://code.google.com/p/hounder Hounder] ==
+A complete search engine solution that allows you to crawl the web, index documents and search them.
+ideas:
+  * improve management user interface
+  * improve monitoring methods
+  * installation wizard
+  * [http://code.google.com/p/hounder/wiki/nextVersionIdeas other ideas]
+  * we are also interested in performance improvements of any kind
+
+== [http://code.google.com/p/clusterfest Clusterfest] ==
+Clusterfest is an extensible opensource framework built in java for managing the complexity of a multi machine software system.
+ideas:
+  * new modules:
+     * send commands
+     * remote setting of properties
+  * enhance "plug n playability"
