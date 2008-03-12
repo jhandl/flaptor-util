@@ -17,7 +17,10 @@ ideas:
   * new modules:
      * send commands
      * remote setting of properties
+     * manage deploying of new versions
+     * inter-node communications
   * enhance "plug n playability"
+  * security - authentication
 
 == minor projects ==
   * [http://code.google.com/p/wiz4j wiz4j]
